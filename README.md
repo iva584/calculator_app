@@ -1,20 +1,4 @@
-# calculator_app
-Simple Python Calculator for Programing.
-# Calculator App
-
-This is a simple Python calculator project.
-
-## Features
-- Addition
-- Subtraction# 🧮 Calculator App (Python)
-
-A simple command-line calculator built using Python.
-
-## 🚀 Features
-- Addition
-- Subtraction
-- Multiplication
-- Division (with zero-check protection)
+ protection)
 
 ## 🛠️ Technologies Used
 - Python 3
